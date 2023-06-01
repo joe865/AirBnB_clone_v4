@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Eyoul Shimeles - [Github](https://github.com/eyoul)  
-Ogochukwu GloriaMary Nwanochiri - [Github](https://github.com/helinabl)
+Joseph Alfred Ukpaka - [Github](https://github.com/joe865)  
+Ogochukwu GloriaMary Nwanochiri - [Github](https://github.com/Ogoobaby)
 
 ## License
 Public Domain. No copy write protection. 
